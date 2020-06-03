@@ -1,0 +1,2205 @@
+[
+  {
+    "Abbreviation": "AL",
+    "Name": "Alabama",
+    "Population": 4887871,
+    "ECVotes": 9,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Alabama",
+        "Population": 715346
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Alabama",
+        "Population": 678122
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Alabama",
+        "Population": 708409
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Alabama",
+        "Population": 686297
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Alabama",
+        "Population": 725634
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Alabama",
+        "Population": 713595
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Alabama",
+        "Population": 660468
+      }
+    ]
+  },
+  {
+    "Abbreviation": "AK",
+    "Name": "Alaska",
+    "Population": 737438,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), Alaska",
+        "Population": 737438
+      }
+    ]
+  },
+  {
+    "Abbreviation": "AZ",
+    "Name": "Arizona",
+    "Population": 7171646,
+    "ECVotes": 11,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Arizona",
+        "Population": 770392
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Arizona",
+        "Population": 724747
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Arizona",
+        "Population": 798359
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Arizona",
+        "Population": 809426
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Arizona",
+        "Population": 841344
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Arizona",
+        "Population": 783621
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Arizona",
+        "Population": 854749
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Arizona",
+        "Population": 794820
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Arizona",
+        "Population": 794188
+      }
+    ]
+  },
+  {
+    "Abbreviation": "AR",
+    "Name": "Arkansas",
+    "Population": 3013825,
+    "ECVotes": 6,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Arkansas",
+        "Population": 724622
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Arkansas",
+        "Population": 765124
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Arkansas",
+        "Population": 819235
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Arkansas",
+        "Population": 704844
+      }
+    ]
+  },
+  {
+    "Abbreviation": "CA",
+    "Name": "California",
+    "Population": 39557045,
+    "ECVotes": 55,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), California",
+        "Population": 711282
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), California",
+        "Population": 722370
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), California",
+        "Population": 748104
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), California",
+        "Population": 754525
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), California",
+        "Population": 730955
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), California",
+        "Population": 777985
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), California",
+        "Population": 753640
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), California",
+        "Population": 717107
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), California",
+        "Population": 775148
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), California",
+        "Population": 761485
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), California",
+        "Population": 762290
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), California",
+        "Population": 764043
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), California",
+        "Population": 764304
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), California",
+        "Population": 759415
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), California",
+        "Population": 789174
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), California",
+        "Population": 749967
+      },
+      {
+        "Name": "Congressional District 17 (116th Congress), California",
+        "Population": 777468
+      },
+      {
+        "Name": "Congressional District 18 (116th Congress), California",
+        "Population": 750295
+      },
+      {
+        "Name": "Congressional District 19 (116th Congress), California",
+        "Population": 763028
+      },
+      {
+        "Name": "Congressional District 20 (116th Congress), California",
+        "Population": 739352
+      },
+      {
+        "Name": "Congressional District 21 (116th Congress), California",
+        "Population": 713625
+      },
+      {
+        "Name": "Congressional District 22 (116th Congress), California",
+        "Population": 771095
+      },
+      {
+        "Name": "Congressional District 23 (116th Congress), California",
+        "Population": 747852
+      },
+      {
+        "Name": "Congressional District 24 (116th Congress), California",
+        "Population": 738707
+      },
+      {
+        "Name": "Congressional District 25 (116th Congress), California",
+        "Population": 716257
+      },
+      {
+        "Name": "Congressional District 26 (116th Congress), California",
+        "Population": 728927
+      },
+      {
+        "Name": "Congressional District 27 (116th Congress), California",
+        "Population": 705509
+      },
+      {
+        "Name": "Congressional District 28 (116th Congress), California",
+        "Population": 709450
+      },
+      {
+        "Name": "Congressional District 29 (116th Congress), California",
+        "Population": 707741
+      },
+      {
+        "Name": "Congressional District 30 (116th Congress), California",
+        "Population": 766513
+      },
+      {
+        "Name": "Congressional District 31 (116th Congress), California",
+        "Population": 751527
+      },
+      {
+        "Name": "Congressional District 32 (116th Congress), California",
+        "Population": 716199
+      },
+      {
+        "Name": "Congressional District 33 (116th Congress), California",
+        "Population": 704818
+      },
+      {
+        "Name": "Congressional District 34 (116th Congress), California",
+        "Population": 748812
+      },
+      {
+        "Name": "Congressional District 35 (116th Congress), California",
+        "Population": 769589
+      },
+      {
+        "Name": "Congressional District 36 (116th Congress), California",
+        "Population": 752138
+      },
+      {
+        "Name": "Congressional District 37 (116th Congress), California",
+        "Population": 738174
+      },
+      {
+        "Name": "Congressional District 38 (116th Congress), California",
+        "Population": 716331
+      },
+      {
+        "Name": "Congressional District 39 (116th Congress), California",
+        "Population": 726541
+      },
+      {
+        "Name": "Congressional District 40 (116th Congress), California",
+        "Population": 716470
+      },
+      {
+        "Name": "Congressional District 41 (116th Congress), California",
+        "Population": 775626
+      },
+      {
+        "Name": "Congressional District 42 (116th Congress), California",
+        "Population": 826801
+      },
+      {
+        "Name": "Congressional District 43 (116th Congress), California",
+        "Population": 753696
+      },
+      {
+        "Name": "Congressional District 44 (116th Congress), California",
+        "Population": 725177
+      },
+      {
+        "Name": "Congressional District 45 (116th Congress), California",
+        "Population": 797608
+      },
+      {
+        "Name": "Congressional District 46 (116th Congress), California",
+        "Population": 735139
+      },
+      {
+        "Name": "Congressional District 47 (116th Congress), California",
+        "Population": 710853
+      },
+      {
+        "Name": "Congressional District 48 (116th Congress), California",
+        "Population": 719486
+      },
+      {
+        "Name": "Congressional District 49 (116th Congress), California",
+        "Population": 731513
+      },
+      {
+        "Name": "Congressional District 50 (116th Congress), California",
+        "Population": 751551
+      },
+      {
+        "Name": "Congressional District 51 (116th Congress), California",
+        "Population": 747510
+      },
+      {
+        "Name": "Congressional District 52 (116th Congress), California",
+        "Population": 767172
+      },
+      {
+        "Name": "Congressional District 53 (116th Congress), California",
+        "Population": 796701
+      }
+    ]
+  },
+  {
+    "Abbreviation": "CO",
+    "Name": "Colorado",
+    "Population": 5695564,
+    "ECVotes": 9,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Colorado",
+        "Population": 841497
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Colorado",
+        "Population": 812357
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Colorado",
+        "Population": 753595
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Colorado",
+        "Population": 836061
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Colorado",
+        "Population": 815466
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Colorado",
+        "Population": 835273
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Colorado",
+        "Population": 801315
+      }
+    ]
+  },
+  {
+    "Abbreviation": "CT",
+    "Name": "Connecticut",
+    "Population": 3572665,
+    "ECVotes": 7,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Connecticut",
+        "Population": 715049
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Connecticut",
+        "Population": 699657
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Connecticut",
+        "Population": 712272
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Connecticut",
+        "Population": 739090
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Connecticut",
+        "Population": 706597
+      }
+    ]
+  },
+  {
+    "Abbreviation": "DE",
+    "Name": "Delaware",
+    "Population": 967171,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), Delaware",
+        "Population": 967171
+      }
+    ]
+  },
+  {
+    "Abbreviation": "DC",
+    "Name": "District of Columbia",
+    "Population": 702455,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Delegate District (at Large) (116th Congress), District of Columbia",
+        "Population": 702455
+      }
+    ]
+  },
+  {
+    "Abbreviation": "FL",
+    "Name": "Florida",
+    "Population": 21299325,
+    "ECVotes": 29,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Florida",
+        "Population": 784532
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Florida",
+        "Population": 733749
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Florida",
+        "Population": 758275
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Florida",
+        "Population": 819177
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Florida",
+        "Population": 738862
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Florida",
+        "Population": 781896
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Florida",
+        "Population": 786041
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Florida",
+        "Population": 768139
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Florida",
+        "Population": 902812
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Florida",
+        "Population": 839504
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Florida",
+        "Population": 789849
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Florida",
+        "Population": 792410
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Florida",
+        "Population": 735935
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Florida",
+        "Population": 782973
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), Florida",
+        "Population": 808723
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), Florida",
+        "Population": 852096
+      },
+      {
+        "Name": "Congressional District 17 (116th Congress), Florida",
+        "Population": 789236
+      },
+      {
+        "Name": "Congressional District 18 (116th Congress), Florida",
+        "Population": 780772
+      },
+      {
+        "Name": "Congressional District 19 (116th Congress), Florida",
+        "Population": 836359
+      },
+      {
+        "Name": "Congressional District 20 (116th Congress), Florida",
+        "Population": 809153
+      },
+      {
+        "Name": "Congressional District 21 (116th Congress), Florida",
+        "Population": 785042
+      },
+      {
+        "Name": "Congressional District 22 (116th Congress), Florida",
+        "Population": 753363
+      },
+      {
+        "Name": "Congressional District 23 (116th Congress), Florida",
+        "Population": 756447
+      },
+      {
+        "Name": "Congressional District 24 (116th Congress), Florida",
+        "Population": 784469
+      },
+      {
+        "Name": "Congressional District 25 (116th Congress), Florida",
+        "Population": 775326
+      },
+      {
+        "Name": "Congressional District 26 (116th Congress), Florida",
+        "Population": 790373
+      },
+      {
+        "Name": "Congressional District 27 (116th Congress), Florida",
+        "Population": 763812
+      }
+    ]
+  },
+  {
+    "Abbreviation": "GA",
+    "Name": "Georgia",
+    "Population": 10519475,
+    "ECVotes": 16,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Georgia",
+        "Population": 744385
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Georgia",
+        "Population": 665539
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Georgia",
+        "Population": 740700
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Georgia",
+        "Population": 785104
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Georgia",
+        "Population": 793039
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Georgia",
+        "Population": 754299
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Georgia",
+        "Population": 803976
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Georgia",
+        "Population": 714720
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Georgia",
+        "Population": 765320
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Georgia",
+        "Population": 767352
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Georgia",
+        "Population": 781313
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Georgia",
+        "Population": 723334
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Georgia",
+        "Population": 757521
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Georgia",
+        "Population": 722873
+      }
+    ]
+  },
+  {
+    "Abbreviation": "HI",
+    "Name": "Hawaii",
+    "Population": 1420491,
+    "ECVotes": 4,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Hawaii",
+        "Population": 709286
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Hawaii",
+        "Population": 711205
+      }
+    ]
+  },
+  {
+    "Abbreviation": "ID",
+    "Name": "Idaho",
+    "Population": 1754208,
+    "ECVotes": 4,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Idaho",
+        "Population": 912950
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Idaho",
+        "Population": 841258
+      }
+    ]
+  },
+  {
+    "Abbreviation": "IL",
+    "Name": "Illinois",
+    "Population": 12741080,
+    "ECVotes": 20,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Illinois",
+        "Population": 706550
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Illinois",
+        "Population": 694459
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Illinois",
+        "Population": 704050
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Illinois",
+        "Population": 702062
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Illinois",
+        "Population": 743699
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Illinois",
+        "Population": 730345
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Illinois",
+        "Population": 707513
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Illinois",
+        "Population": 707268
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Illinois",
+        "Population": 721481
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Illinois",
+        "Population": 711265
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Illinois",
+        "Population": 722584
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Illinois",
+        "Population": 687072
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Illinois",
+        "Population": 704211
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Illinois",
+        "Population": 742235
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), Illinois",
+        "Population": 691196
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), Illinois",
+        "Population": 684888
+      },
+      {
+        "Name": "Congressional District 17 (116th Congress), Illinois",
+        "Population": 679926
+      },
+      {
+        "Name": "Congressional District 18 (116th Congress), Illinois",
+        "Population": 700276
+      }
+    ]
+  },
+  {
+    "Abbreviation": "IN",
+    "Name": "Indiana",
+    "Population": 6691878,
+    "ECVotes": 11,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Indiana",
+        "Population": 714756
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Indiana",
+        "Population": 723483
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Indiana",
+        "Population": 747060
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Indiana",
+        "Population": 768025
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Indiana",
+        "Population": 784462
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Indiana",
+        "Population": 719771
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Indiana",
+        "Population": 760466
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Indiana",
+        "Population": 718591
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Indiana",
+        "Population": 755264
+      }
+    ]
+  },
+  {
+    "Abbreviation": "IA",
+    "Name": "Iowa",
+    "Population": 3156145,
+    "ECVotes": 6,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Iowa",
+        "Population": 773628
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Iowa",
+        "Population": 783983
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Iowa",
+        "Population": 843598
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Iowa",
+        "Population": 754936
+      }
+    ]
+  },
+  {
+    "Abbreviation": "KS",
+    "Name": "Kansas",
+    "Population": 2911510,
+    "ECVotes": 6,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Kansas",
+        "Population": 698323
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Kansas",
+        "Population": 713845
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Kansas",
+        "Population": 775243
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Kansas",
+        "Population": 724099
+      }
+    ]
+  },
+  {
+    "Abbreviation": "KY",
+    "Name": "Kentucky",
+    "Population": 4468402,
+    "ECVotes": 8,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Kentucky",
+        "Population": 721124
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Kentucky",
+        "Population": 769850
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Kentucky",
+        "Population": 749110
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Kentucky",
+        "Population": 754387
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Kentucky",
+        "Population": 695105
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Kentucky",
+        "Population": 778826
+      }
+    ]
+  },
+  {
+    "Abbreviation": "LA",
+    "Name": "Louisiana",
+    "Population": 4659978,
+    "ECVotes": 8,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Louisiana",
+        "Population": 806638
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Louisiana",
+        "Population": 794121
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Louisiana",
+        "Population": 783545
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Louisiana",
+        "Population": 747314
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Louisiana",
+        "Population": 738249
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Louisiana",
+        "Population": 790111
+      }
+    ]
+  },
+  {
+    "Abbreviation": "ME",
+    "Name": "Maine",
+    "Population": 1338404,
+    "ECVotes": 4,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Maine",
+        "Population": 685535
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Maine",
+        "Population": 652869
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MD",
+    "Name": "Maryland",
+    "Population": 6042718,
+    "ECVotes": 10,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Maryland",
+        "Population": 741621
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Maryland",
+        "Population": 768511
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Maryland",
+        "Population": 754636
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Maryland",
+        "Population": 760398
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Maryland",
+        "Population": 757621
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Maryland",
+        "Population": 758943
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Maryland",
+        "Population": 716136
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Maryland",
+        "Population": 784852
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MA",
+    "Name": "Massachusetts",
+    "Population": 6902149,
+    "ECVotes": 11,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Massachusetts",
+        "Population": 736481
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Massachusetts",
+        "Population": 745347
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Massachusetts",
+        "Population": 771096
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Massachusetts",
+        "Population": 766019
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Massachusetts",
+        "Population": 775135
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Massachusetts",
+        "Population": 780524
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Massachusetts",
+        "Population": 820086
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Massachusetts",
+        "Population": 764891
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Massachusetts",
+        "Population": 742570
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MI",
+    "Name": "Michigan",
+    "Population": 9995915,
+    "ECVotes": 16,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Michigan",
+        "Population": 699220
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Michigan",
+        "Population": 743361
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Michigan",
+        "Population": 749975
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Michigan",
+        "Population": 704592
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Michigan",
+        "Population": 671115
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Michigan",
+        "Population": 721736
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Michigan",
+        "Population": 706811
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Michigan",
+        "Population": 749011
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Michigan",
+        "Population": 715259
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Michigan",
+        "Population": 722722
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Michigan",
+        "Population": 733920
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Michigan",
+        "Population": 709832
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Michigan",
+        "Population": 663867
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Michigan",
+        "Population": 704494
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MN",
+    "Name": "Minnesota",
+    "Population": 5611179,
+    "ECVotes": 10,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Minnesota",
+        "Population": 678418
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Minnesota",
+        "Population": 714141
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Minnesota",
+        "Population": 723994
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Minnesota",
+        "Population": 717766
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Minnesota",
+        "Population": 718802
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Minnesota",
+        "Population": 722715
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Minnesota",
+        "Population": 663069
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Minnesota",
+        "Population": 672274
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MS",
+    "Name": "Mississippi",
+    "Population": 2986530,
+    "ECVotes": 6,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Mississippi",
+        "Population": 769595
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Mississippi",
+        "Population": 695797
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Mississippi",
+        "Population": 746155
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Mississippi",
+        "Population": 774983
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MO",
+    "Name": "Missouri",
+    "Population": 6126452,
+    "ECVotes": 10,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Missouri",
+        "Population": 728365
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Missouri",
+        "Population": 760689
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Missouri",
+        "Population": 793405
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Missouri",
+        "Population": 770500
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Missouri",
+        "Population": 771847
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Missouri",
+        "Population": 780002
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Missouri",
+        "Population": 783672
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Missouri",
+        "Population": 737972
+      }
+    ]
+  },
+  {
+    "Abbreviation": "MT",
+    "Name": "Montana",
+    "Population": 1062305,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), Montana",
+        "Population": 1062305
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NE",
+    "Name": "Nebraska",
+    "Population": 1929268,
+    "ECVotes": 5,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Nebraska",
+        "Population": 653684
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Nebraska",
+        "Population": 673005
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Nebraska",
+        "Population": 602579
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NV",
+    "Name": "Nevada",
+    "Population": 3034392,
+    "ECVotes": 6,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Nevada",
+        "Population": 685427
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Nevada",
+        "Population": 729771
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Nevada",
+        "Population": 846761
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Nevada",
+        "Population": 772433
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NH",
+    "Name": "New Hampshire",
+    "Population": 1356458,
+    "ECVotes": 4,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), New Hampshire",
+        "Population": 686820
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), New Hampshire",
+        "Population": 669638
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NJ",
+    "Name": "New Jersey",
+    "Population": 8908520,
+    "ECVotes": 14,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), New Jersey",
+        "Population": 731297
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), New Jersey",
+        "Population": 703117
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), New Jersey",
+        "Population": 742905
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), New Jersey",
+        "Population": 748858
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), New Jersey",
+        "Population": 730707
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), New Jersey",
+        "Population": 730114
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), New Jersey",
+        "Population": 730778
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), New Jersey",
+        "Population": 764837
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), New Jersey",
+        "Population": 765382
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), New Jersey",
+        "Population": 759704
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), New Jersey",
+        "Population": 744805
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), New Jersey",
+        "Population": 756016
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NM",
+    "Name": "New Mexico",
+    "Population": 2095428,
+    "ECVotes": 5,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), New Mexico",
+        "Population": 697064
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), New Mexico",
+        "Population": 700113
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), New Mexico",
+        "Population": 698251
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NY",
+    "Name": "New York",
+    "Population": 19542209,
+    "ECVotes": 29,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), New York",
+        "Population": 718726
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), New York",
+        "Population": 709605
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), New York",
+        "Population": 707576
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), New York",
+        "Population": 729582
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), New York",
+        "Population": 757972
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), New York",
+        "Population": 734183
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), New York",
+        "Population": 720811
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), New York",
+        "Population": 791211
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), New York",
+        "Population": 730957
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), New York",
+        "Population": 711678
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), New York",
+        "Population": 732886
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), New York",
+        "Population": 698928
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), New York",
+        "Population": 795633
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), New York",
+        "Population": 706440
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), New York",
+        "Population": 743959
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), New York",
+        "Population": 732981
+      },
+      {
+        "Name": "Congressional District 17 (116th Congress), New York",
+        "Population": 741445
+      },
+      {
+        "Name": "Congressional District 18 (116th Congress), New York",
+        "Population": 722226
+      },
+      {
+        "Name": "Congressional District 19 (116th Congress), New York",
+        "Population": 700310
+      },
+      {
+        "Name": "Congressional District 20 (116th Congress), New York",
+        "Population": 722529
+      },
+      {
+        "Name": "Congressional District 21 (116th Congress), New York",
+        "Population": 701112
+      },
+      {
+        "Name": "Congressional District 22 (116th Congress), New York",
+        "Population": 697372
+      },
+      {
+        "Name": "Congressional District 23 (116th Congress), New York",
+        "Population": 693764
+      },
+      {
+        "Name": "Congressional District 24 (116th Congress), New York",
+        "Population": 701664
+      },
+      {
+        "Name": "Congressional District 25 (116th Congress), New York",
+        "Population": 718565
+      },
+      {
+        "Name": "Congressional District 26 (116th Congress), New York",
+        "Population": 707190
+      },
+      {
+        "Name": "Congressional District 27 (116th Congress), New York",
+        "Population": 712904
+      }
+    ]
+  },
+  {
+    "Abbreviation": "NC",
+    "Name": "North Carolina",
+    "Population": 10383620,
+    "ECVotes": 15,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), North Carolina",
+        "Population": 761087
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), North Carolina",
+        "Population": 858938
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), North Carolina",
+        "Population": 756375
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), North Carolina",
+        "Population": 871589
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), North Carolina",
+        "Population": 762960
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), North Carolina",
+        "Population": 772716
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), North Carolina",
+        "Population": 809820
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), North Carolina",
+        "Population": 797935
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), North Carolina",
+        "Population": 792434
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), North Carolina",
+        "Population": 762919
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), North Carolina",
+        "Population": 768166
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), North Carolina",
+        "Population": 880550
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), North Carolina",
+        "Population": 788131
+      }
+    ]
+  },
+  {
+    "Abbreviation": "ND",
+    "Name": "North Dakota",
+    "Population": 760077,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), North Dakota",
+        "Population": 760077
+      }
+    ]
+  },
+  {
+    "Abbreviation": "OH",
+    "Name": "Ohio",
+    "Population": 11689442,
+    "ECVotes": 18,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Ohio",
+        "Population": 740979
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Ohio",
+        "Population": 734712
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Ohio",
+        "Population": 812264
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Ohio",
+        "Population": 707219
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Ohio",
+        "Population": 717088
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Ohio",
+        "Population": 694694
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Ohio",
+        "Population": 734091
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Ohio",
+        "Population": 731637
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Ohio",
+        "Population": 716235
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Ohio",
+        "Population": 725301
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Ohio",
+        "Population": 678001
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Ohio",
+        "Population": 789634
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Ohio",
+        "Population": 707603
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Ohio",
+        "Population": 720551
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), Ohio",
+        "Population": 759569
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), Ohio",
+        "Population": 719864
+      }
+    ]
+  },
+  {
+    "Abbreviation": "OK",
+    "Name": "Oklahoma",
+    "Population": 3943079,
+    "ECVotes": 7,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Oklahoma",
+        "Population": 803029
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Oklahoma",
+        "Population": 747632
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Oklahoma",
+        "Population": 778026
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Oklahoma",
+        "Population": 791927
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Oklahoma",
+        "Population": 822465
+      }
+    ]
+  },
+  {
+    "Abbreviation": "OR",
+    "Name": "Oregon",
+    "Population": 4190713,
+    "ECVotes": 7,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Oregon",
+        "Population": 858910
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Oregon",
+        "Population": 831343
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Oregon",
+        "Population": 841456
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Oregon",
+        "Population": 814998
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Oregon",
+        "Population": 844006
+      }
+    ]
+  },
+  {
+    "Abbreviation": "PA",
+    "Name": "Pennsylvania",
+    "Population": 12807060,
+    "ECVotes": 20,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Pennsylvania",
+        "Population": 713685
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Pennsylvania",
+        "Population": 727380
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Pennsylvania",
+        "Population": 736340
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Pennsylvania",
+        "Population": 727449
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Pennsylvania",
+        "Population": 718076
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Pennsylvania",
+        "Population": 734876
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Pennsylvania",
+        "Population": 731168
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Pennsylvania",
+        "Population": 696956
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Pennsylvania",
+        "Population": 702489
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Pennsylvania",
+        "Population": 734849
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Pennsylvania",
+        "Population": 737394
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Pennsylvania",
+        "Population": 701192
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Pennsylvania",
+        "Population": 692835
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Pennsylvania",
+        "Population": 684084
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), Pennsylvania",
+        "Population": 680927
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), Pennsylvania",
+        "Population": 686525
+      },
+      {
+        "Name": "Congressional District 17 (116th Congress), Pennsylvania",
+        "Population": 717264
+      },
+      {
+        "Name": "Congressional District 18 (116th Congress), Pennsylvania",
+        "Population": 683571
+      }
+    ]
+  },
+  {
+    "Abbreviation": "RI",
+    "Name": "Rhode Island",
+    "Population": 1057315,
+    "ECVotes": 4,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Rhode Island",
+        "Population": 532590
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Rhode Island",
+        "Population": 524725
+      }
+    ]
+  },
+  {
+    "Abbreviation": "SC",
+    "Name": "South Carolina",
+    "Population": 5084127,
+    "ECVotes": 9,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), South Carolina",
+        "Population": 809610
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), South Carolina",
+        "Population": 717231
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), South Carolina",
+        "Population": 697467
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), South Carolina",
+        "Population": 736750
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), South Carolina",
+        "Population": 731341
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), South Carolina",
+        "Population": 659483
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), South Carolina",
+        "Population": 732245
+      }
+    ]
+  },
+  {
+    "Abbreviation": "SD",
+    "Name": "South Dakota",
+    "Population": 882235,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), South Dakota",
+        "Population": 882235
+      }
+    ]
+  },
+  {
+    "Abbreviation": "TN",
+    "Name": "Tennessee",
+    "Population": 6770010,
+    "ECVotes": 11,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Tennessee",
+        "Population": 720358
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Tennessee",
+        "Population": 753229
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Tennessee",
+        "Population": 736889
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Tennessee",
+        "Population": 798482
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Tennessee",
+        "Population": 777696
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Tennessee",
+        "Population": 784725
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Tennessee",
+        "Population": 786523
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Tennessee",
+        "Population": 699385
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Tennessee",
+        "Population": 712723
+      }
+    ]
+  },
+  {
+    "Abbreviation": "TX",
+    "Name": "Texas",
+    "Population": 28701845,
+    "ECVotes": 38,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Texas",
+        "Population": 725555
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Texas",
+        "Population": 803041
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Texas",
+        "Population": 899784
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Texas",
+        "Population": 759648
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Texas",
+        "Population": 749808
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Texas",
+        "Population": 804816
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Texas",
+        "Population": 775198
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Texas",
+        "Population": 871420
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Texas",
+        "Population": 786925
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Texas",
+        "Population": 896798
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Texas",
+        "Population": 782337
+      },
+      {
+        "Name": "Congressional District 12 (116th Congress), Texas",
+        "Population": 812102
+      },
+      {
+        "Name": "Congressional District 13 (116th Congress), Texas",
+        "Population": 711672
+      },
+      {
+        "Name": "Congressional District 14 (116th Congress), Texas",
+        "Population": 763380
+      },
+      {
+        "Name": "Congressional District 15 (116th Congress), Texas",
+        "Population": 795511
+      },
+      {
+        "Name": "Congressional District 16 (116th Congress), Texas",
+        "Population": 733764
+      },
+      {
+        "Name": "Congressional District 17 (116th Congress), Texas",
+        "Population": 793513
+      },
+      {
+        "Name": "Congressional District 18 (116th Congress), Texas",
+        "Population": 801885
+      },
+      {
+        "Name": "Congressional District 19 (116th Congress), Texas",
+        "Population": 731759
+      },
+      {
+        "Name": "Congressional District 20 (116th Congress), Texas",
+        "Population": 846337
+      },
+      {
+        "Name": "Congressional District 21 (116th Congress), Texas",
+        "Population": 818281
+      },
+      {
+        "Name": "Congressional District 22 (116th Congress), Texas",
+        "Population": 935386
+      },
+      {
+        "Name": "Congressional District 23 (116th Congress), Texas",
+        "Population": 794879
+      },
+      {
+        "Name": "Congressional District 24 (116th Congress), Texas",
+        "Population": 817147
+      },
+      {
+        "Name": "Congressional District 25 (116th Congress), Texas",
+        "Population": 786976
+      },
+      {
+        "Name": "Congressional District 26 (116th Congress), Texas",
+        "Population": 894192
+      },
+      {
+        "Name": "Congressional District 27 (116th Congress), Texas",
+        "Population": 739719
+      },
+      {
+        "Name": "Congressional District 28 (116th Congress), Texas",
+        "Population": 768719
+      },
+      {
+        "Name": "Congressional District 29 (116th Congress), Texas",
+        "Population": 765435
+      },
+      {
+        "Name": "Congressional District 30 (116th Congress), Texas",
+        "Population": 804679
+      },
+      {
+        "Name": "Congressional District 31 (116th Congress), Texas",
+        "Population": 883347
+      },
+      {
+        "Name": "Congressional District 32 (116th Congress), Texas",
+        "Population": 769852
+      },
+      {
+        "Name": "Congressional District 33 (116th Congress), Texas",
+        "Population": 777745
+      },
+      {
+        "Name": "Congressional District 34 (116th Congress), Texas",
+        "Population": 727688
+      },
+      {
+        "Name": "Congressional District 35 (116th Congress), Texas",
+        "Population": 818369
+      },
+      {
+        "Name": "Congressional District 36 (116th Congress), Texas",
+        "Population": 754178
+      }
+    ]
+  },
+  {
+    "Abbreviation": "UT",
+    "Name": "Utah",
+    "Population": 3161105,
+    "ECVotes": 6,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Utah",
+        "Population": 776910
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Utah",
+        "Population": 779772
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Utah",
+        "Population": 773622
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Utah",
+        "Population": 830801
+      }
+    ]
+  },
+  {
+    "Abbreviation": "VT",
+    "Name": "Vermont",
+    "Population": 626299,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), Vermont",
+        "Population": 626299
+      }
+    ]
+  },
+  {
+    "Abbreviation": "VA",
+    "Name": "Virginia",
+    "Population": 8517685,
+    "ECVotes": 13,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Virginia",
+        "Population": 813878
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Virginia",
+        "Population": 743410
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Virginia",
+        "Population": 744804
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Virginia",
+        "Population": 747291
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Virginia",
+        "Population": 739410
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Virginia",
+        "Population": 755437
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Virginia",
+        "Population": 812385
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Virginia",
+        "Population": 795467
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Virginia",
+        "Population": 704831
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Virginia",
+        "Population": 862308
+      },
+      {
+        "Name": "Congressional District 11 (116th Congress), Virginia",
+        "Population": 798464
+      }
+    ]
+  },
+  {
+    "Abbreviation": "WA",
+    "Name": "Washington",
+    "Population": 7535591,
+    "ECVotes": 12,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Washington",
+        "Population": 768363
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Washington",
+        "Population": 755546
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Washington",
+        "Population": 743322
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Washington",
+        "Population": 735031
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Washington",
+        "Population": 725964
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Washington",
+        "Population": 731742
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Washington",
+        "Population": 799589
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Washington",
+        "Population": 754721
+      },
+      {
+        "Name": "Congressional District 9 (116th Congress), Washington",
+        "Population": 765285
+      },
+      {
+        "Name": "Congressional District 10 (116th Congress), Washington",
+        "Population": 756028
+      }
+    ]
+  },
+  {
+    "Abbreviation": "WV",
+    "Name": "West Virginia",
+    "Population": 1805832,
+    "ECVotes": 5,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), West Virginia",
+        "Population": 606136
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), West Virginia",
+        "Population": 624120
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), West Virginia",
+        "Population": 575576
+      }
+    ]
+  },
+  {
+    "Abbreviation": "WI",
+    "Name": "Wisconsin",
+    "Population": 5813568,
+    "ECVotes": 10,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District 1 (116th Congress), Wisconsin",
+        "Population": 717716
+      },
+      {
+        "Name": "Congressional District 2 (116th Congress), Wisconsin",
+        "Population": 768067
+      },
+      {
+        "Name": "Congressional District 3 (116th Congress), Wisconsin",
+        "Population": 724568
+      },
+      {
+        "Name": "Congressional District 4 (116th Congress), Wisconsin",
+        "Population": 710573
+      },
+      {
+        "Name": "Congressional District 5 (116th Congress), Wisconsin",
+        "Population": 731341
+      },
+      {
+        "Name": "Congressional District 6 (116th Congress), Wisconsin",
+        "Population": 714886
+      },
+      {
+        "Name": "Congressional District 7 (116th Congress), Wisconsin",
+        "Population": 710420
+      },
+      {
+        "Name": "Congressional District 8 (116th Congress), Wisconsin",
+        "Population": 735997
+      }
+    ]
+  },
+  {
+    "Abbreviation": "WY",
+    "Name": "Wyoming",
+    "Population": 577737,
+    "ECVotes": 3,
+    "Regions": null,
+    "Districts": [
+      {
+        "Name": "Congressional District (at Large) (116th Congress), Wyoming",
+        "Population": 577737
+      }
+    ]
+  }
+]

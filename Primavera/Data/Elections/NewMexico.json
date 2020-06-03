@@ -1,0 +1,95 @@
+{
+  "State": "New Mexico",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 54.5,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 40.04
+        
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 48.26
+        
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 54.6,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 42.84
+        
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 52.99
+        
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 60.9,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 41.78
+        
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 56.91
+        
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 59.0,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 49.87
+        
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 49.05
+        
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 48.5,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 47.85
+        
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 47.91
+        
+        }
+      ]
+    }
+  ]
+}

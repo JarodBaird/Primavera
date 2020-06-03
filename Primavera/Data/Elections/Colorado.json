@@ -1,0 +1,85 @@
+{
+  "State": "Colorado",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 70.0,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 43.25
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 48.16
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 69.9,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 46.13
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 51.49
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 71.0,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 53.66
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 44.71
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 66.7,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 51.69
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 47.02
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 57.5,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 50.75
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 42.39
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "State": "Montana",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 61.8,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 56.17
+
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 35.75
+
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 62.5,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 55.35
+
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 41.70
+
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 66.3,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 49.49
+
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 47.11
+
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 64.4,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 59.07
+
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 38.56
+
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 61.6,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 58.44
+
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 33.36
+
+        }
+      ]
+    }
+  ]
+}

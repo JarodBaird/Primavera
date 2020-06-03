@@ -1,0 +1,85 @@
+{
+  "State": "Louisiana",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 60.0,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 58.09
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 38.45
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 60.2,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 57.78
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 40.58
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 61.2,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 58.56
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 39.93
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 61.1,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 56.72
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 42.22
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 56.4,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 52.55
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 44.88
+        }
+      ]
+    }
+  ]
+}

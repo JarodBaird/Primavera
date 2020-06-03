@@ -1,0 +1,85 @@
+{
+  "State": "Wyoming",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 59.5,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 67.40
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 21.63
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 58.6,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 68.64
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 27.82
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 62.8,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 64.78
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 32.54
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 65.7,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 68.86
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 29.07
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 59.2,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 67.76
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 27.70
+        }
+      ]
+    }
+  ]
+}

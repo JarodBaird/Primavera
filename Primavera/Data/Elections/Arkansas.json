@@ -1,0 +1,85 @@
+{
+  "State": "Arkansas",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 52.8,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 60.57
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 33.65
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 50.7,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 60.57
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 36.88
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 52.5,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 58.72
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 38.86
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 53.6,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 54.31
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 44.55
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 47.9,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 51.31
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 45.86
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "State": "Alaska",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 61.0,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 51.28
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 36.55
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 58.7,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 54.80
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 40.81
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 68.0,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 59.42
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 37.89
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 69.1,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 61.07
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 35.52
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 68.1,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 58.62
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 27.67
+        }
+      ]
+    }
+  ]
+}

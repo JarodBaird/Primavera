@@ -1,0 +1,93 @@
+{
+  "State": "North Carolina",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 64.5,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 49.83
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 46.17
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 64.8,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 50.39
+        
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 48.35
+        
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 65.5,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 49.38
+        
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 49.70
+        
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 57.8,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 56.02
+        
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 43.58
+        
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout":  50.7,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 56.03
+        
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 43.20
+        
+        }
+      ]
+    }
+  ]
+}

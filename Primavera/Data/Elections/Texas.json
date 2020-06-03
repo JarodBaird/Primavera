@@ -1,0 +1,93 @@
+{
+  "State": "Texas",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 51.4,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 52.23
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 43.24
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 49.6,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 57.17
+        
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 41.38
+        
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 54.1,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 55.45
+        
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 43.68
+        
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 53.7,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 61.09
+        
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 38.22
+        
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 49.2,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 59.30
+        
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 37.98
+        
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "State": "Virginia",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 66.1,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 44.41
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 49.73
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 66.1,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 47.28
+
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 51.16
+
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 67.0,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 46.33
+
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 52.63
+
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 60.6,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 53.73
+
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 45.53
+
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 54.0,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 52.47
+
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 44.44
+
+        }
+      ]
+    }
+  ]
+}

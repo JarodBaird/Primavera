@@ -1,0 +1,95 @@
+{
+  "State": "Nebraska",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 62.8,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 58.75
+
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 33.70
+
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 60.3,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 59.80
+
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 38.03
+
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 62.9,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 56.53
+
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 41.60
+
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 62.9,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 65.90
+
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 32.68
+
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 56.9,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 62.25
+
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 33.25
+
+        }
+      ]
+    }
+  ]
+}

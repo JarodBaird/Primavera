@@ -1,0 +1,85 @@
+{
+  "State": "Delaware",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 64.2,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 41.72
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 53.09
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 62.3,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 58.61
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 39.98
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 65.6,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 36.92
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 61.94
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 64.2,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 45.75
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 53.45
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 59.0,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 41.90
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 54.96
+        }
+      ]
+    }
+  ]
+}

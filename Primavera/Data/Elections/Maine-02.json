@@ -1,0 +1,85 @@
+{
+  "State": "Maine",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 70.7,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 51.26
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 40.97
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 68.2,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 44.38
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 52.94
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 70.6,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 43.35
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 54.61
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 73.8,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 46
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 52
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 67.2,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 45.56
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 47.43
+        }
+      ]
+    }
+  ]
+}

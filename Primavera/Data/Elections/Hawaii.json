@@ -1,0 +1,85 @@
+{
+  "State": "Hawaii",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 42.3,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 30.36
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 62.88
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 44.2,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 27.84
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 70.55
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 48.8,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 26.58
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 71.85
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 48.2,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 45.26
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 54.01
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 44.2,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 37.46
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 55.79
+        }
+      ]
+    }
+  ]
+}

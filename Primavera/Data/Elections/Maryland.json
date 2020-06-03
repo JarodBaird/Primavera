@@ -1,0 +1,85 @@
+{
+  "State": "Maryland",
+  "Elections": [
+    {
+      "Year": 2016,
+      "Turnout": 66.4,
+      "Results": [
+        {
+          "Candidate": "Donald Trump",
+          "Party": "Republican",
+          "Pct": 33.91
+        },
+        {
+          "Candidate": "Hillary Clinton",
+          "Party": "Democratic",
+          "Pct": 60.33
+        }
+      ]
+    },
+    {
+      "Year": 2012,
+      "Turnout": 66.6,
+      "Results": [
+        {
+          "Candidate": "Mitt Romney",
+          "Party": "Republican",
+          "Pct": 35.90
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 61.97
+        }
+      ]
+    },
+    {
+      "Year": 2008,
+      "Turnout": 67.0,
+      "Results": [
+        {
+          "Candidate": "John McCain",
+          "Party": "Republican",
+          "Pct": 36.47
+        },
+        {
+          "Candidate": "Barack Obama",
+          "Party": "Democratic",
+          "Pct": 61.92
+        }
+      ]
+    },
+    {
+      "Year": 2004,
+      "Turnout": 62.9,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 42.93
+        },
+        {
+          "Candidate": "John Kerry",
+          "Party": "Democratic",
+          "Pct": 55.91
+        }
+      ]
+    },
+    {
+      "Year": 2000,
+      "Turnout": 55.5,
+      "Results": [
+        {
+          "Candidate": "George W. Bush",
+          "Party": "Republican",
+          "Pct": 40.18
+        },
+        {
+          "Candidate": "Al Gore",
+          "Party": "Democratic",
+          "Pct": 56.57
+        }
+      ]
+    }
+  ]
+}
